@@ -32,7 +32,7 @@ Accurate visible-to-thermal image generation holds significant application value
 <br>
 
 ## Dataset
-Download the [data](https://drive.google.com/file/) and put it to your dataset folder.
+Download the [data](https://drive.google.com/drive/folders/1vWvs-U3JUzE9au_2qrDdgsIha_1YBCMm?usp=share_link) and put it to your dataset folder.
 
 ## Citation
 If you find this repository useful in your project, please cite the following work:
